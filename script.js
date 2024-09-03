@@ -16,8 +16,6 @@ let songs = [
     {songName: "Shambhu-Bhole", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
     {songName: "Modern pahadi", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
     {songName: "Bareli Ka Jhmka", filePath: "songs/2.mp3", coverPath: "covers/6.jpg"},
-    {songName: "Kati jali maru chori", filePath: "songs/2.mp3", coverPath: "covers/7.jpg"},
-    // {songName: "Kain bharmai", filePath: "songs/2.mp3", coverPath: "covers/8.jpg"},
 ]
 
 songItems.forEach((element, i)=>{ 
